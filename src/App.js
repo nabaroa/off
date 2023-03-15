@@ -1,4 +1,5 @@
-import index from "./assets/index.svg";
+import React  from 'react';
+import index from "./assets/index-2680.png";
 import "./App.css";
 
 function App() {
